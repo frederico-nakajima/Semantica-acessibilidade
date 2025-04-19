@@ -1,5 +1,11 @@
-Semântica e Acessibilidade ✨
+Treinos exclusivos ✨
+<br>
 
+<p align="center">
+  <img alt="treinos exclusivos
+" src="images/capa.png" width="100%">
+</p>
+<br>
 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio para aprimorar o uso de elementos semânticos e melhorar a acessibilidade de um código HTML. O código inicial estava estruturado com diversas divs genéricas e outros elementos que não contribuem para a semântica do conteúdo. O objetivo foi refatorá-lo utilizando tags semânticas apropriadas, tornando o conteúdo mais acessível e compreensível para leitores de tela e motores de busca.

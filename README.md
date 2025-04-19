@@ -1,5 +1,4 @@
-Treinos exclusivos ✨
-<br>
+<h1 align="center"> Treinos exclusivos ✨ </h1>
 
 <p align="center">
   <img alt="treinos exclusivos
